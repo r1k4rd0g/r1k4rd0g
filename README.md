@@ -18,6 +18,8 @@ Welcome to my page!
   </a>
 </p>
 
+✅**Other information:**
+
 - ⚙I’m currently working on **[Mascotapp](https://github.com/r1k4rd0g/Mascotapp)**
 - 🌱I’m currently learning **Python, IA on IBM Skills and Project Manager**
 - 💪🏼I’m looking to collaborate on projects that involve technology and administrative improvements.
