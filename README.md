@@ -1,7 +1,5 @@
 # Hi, nice to meet you
 
----
-
 ## I am Ricardo 👨🏻‍💻 🖖🏼
 
 Welcome to my page!
