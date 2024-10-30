@@ -7,6 +7,7 @@ Welcome to my page!
 ✅**You can find me 🌎:**
 
 [![LinkedIn logo](https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5)](https://www.linkedin.com/in/ricardo-gra%C3%B1a-batalla/) or send an email to: <ricardogb.812@gmail.com>
+
 ✅**My statistics:**
 <p align="center">
   <a href="https://github.com/r1k4rd0g/github-readme-stats">
